@@ -9,6 +9,7 @@ Anyone can grab almost everything he explained in the video.
 The whole video (52 minutes) divided into some parts like The perceptron, Activation functions, Perceptron example, From perceptrons to neural networks, Applying neural networks, Loss functions, Training and gradient descent, Backpropagation, Setting the learning rate, Batched gradient descent, Regularization: dropout and early stopping. 
 
 ## Course link: http://introtodeeplearning.com/ 
+[MIT Introduction to Deep Learning | 6.S191](http://www.youtube.com/watch?v=njKP3FqW3Sk "MIT Introduction to Deep Learning | 6.S191")
 
 I did take some notes while watching the lecture. I am attaching my handwritten notes with this article.
 
