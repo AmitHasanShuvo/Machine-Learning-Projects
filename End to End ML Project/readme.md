@@ -7,8 +7,8 @@ Linkedin: https://www.linkedin.com/in/kazi-amit-hasan-514443140/ <br>
 Email: kaziamithasan89@gmail.com <br>
 
 
-### Comment: 
-This notebook represents the chapter two(2) of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems book. I tried to implemented each examples while I was reading and practicing this book. <br>
+### Comments: 
+This notebook represents chapter two(2) of Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems book. I tried to implement each examples while I was reading and practicing this book. <br>
 <b>Please give your feedback how I can improve the notebook and please put a star on github to support. Happy Learning!
 
 
