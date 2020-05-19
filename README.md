@@ -14,3 +14,6 @@ Email: kaziamithasan89@gmail.com
 # Project Description
 
 All my implemented Machine Learning projects are available here. All my learning from different coursera ML courses and internet are reflected here.
+
+# YouTube Channel
+[![YouTube Video](https://img.youtube.com/vi/Y7Ld4H8sDUg&t=194s/fashionmnistcnn.png)](https://www.youtube.com/watch?v=Y7Ld4H8sDUg&t=194s)
