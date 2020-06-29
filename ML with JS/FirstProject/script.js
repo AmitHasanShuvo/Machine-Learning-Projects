@@ -26,7 +26,7 @@ async function run() {
         x: d.horsepower,
         y: d.mpg,
     }));
-
+/*This tfvis is helping to visulize the data */
     tfvis.render.scatterplot({
         name: 'Horsepower vs MPG'
     }, {
@@ -34,7 +34,25 @@ async function run() {
     }, {
         xLabel: 'Horsepower',
         yLabel: 'MPG',
-        height: 300
+        height: 400
     });
+
+    // Creating the model
+    const model = createModel();
+    tfvis.show.modelSummary({name: 'Model Summary'},model);
 }
 document.addEventListener('DOMContentLoaded', run);
+
+
+/* Now we will defin the model architecture */
+
+function createModel(){
+    /* dec the model */
+    const model = tf.sequential();
+    /* adding layers */
+    model.add(tf.layers.dense({inputShape: [1],units:10, useBias:true}));
+
+    model.add(tf.layers.dense({units:1,useBias: true}));
+
+    return model;
+}
