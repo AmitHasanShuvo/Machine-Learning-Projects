@@ -1,0 +1,44 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+*.log
+.settings/
+.idea/
+.vscode/
+__pycache__/
+django_server/__pycache__/
+venv/
+env/
+data/
+.DS_Store/
+.pdf/
+.ipynb_checkpoints/
+
+
+# Executables
+
+*.swf
+*.air
+*.ipa
+*.apk
+*.pyc
+*.pyo
+*.zip
+*.tar.gz
+*.sqlite3
+*.csv
+*.sav
+*.exe
+*.json
+*.DS_Store
+*.pdf
+*.xlsx
+*.DS_Store
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
